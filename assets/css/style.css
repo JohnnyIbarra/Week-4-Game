@@ -1,0 +1,36 @@
+body {
+    background-image: url("http://getwallpapers.com/wallpaper/full/5/4/3/437051.jpg");
+}
+
+h1 {
+   font-family: 'Cinzel Decorative', cursive;
+   font-size: 74px;
+   margin: 0px;
+   color: #4442d6;
+   text-align: center;
+}
+
+.game {
+    width: 700px;
+    height: 700px;
+    border: solid #4442d6;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+    color: white;
+    font-family: 'cursive', sans-serif;
+}
+
+h3, h4, h5, h6 {
+    text-align: center;
+}
+
+#image {
+    margin-top: 50px;
+    text-align: center;
+}
